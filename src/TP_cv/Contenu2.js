@@ -33,4 +33,5 @@ class Contenu2 extends React.Component {
         );
     }
 }
-export default Contenu2; 
+export default Contenu2;
+

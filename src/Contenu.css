@@ -1,0 +1,82 @@
+.diplome {
+    background-color: rgb(255, 187, 0);
+    width: 50%;
+    height: 300px;
+}
+
+b {
+    font-size: x-large;
+    color: rgba(0, 0, 0, 0.767);
+    padding-left: 38%;
+}
+.sep{
+    width: 0%;
+    height:300px ;
+    position: absolute;
+    top: 39.4%;
+    left: 48%;
+}
+.date {
+    margin-top: 4%;
+    margin-left: 1%;
+    color: bisque;
+    font-size: larger;
+
+}
+
+.opption {
+    margin-left: 29%;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    margin-top: -11%;
+}
+
+.place {
+    margin-left: 29%;
+    color: brown;
+    font-size: large;
+    margin-top: -1%;
+}
+
+.date-1 {
+    margin-left: 1%;
+    color: bisque;
+    font-size: larger;
+
+}
+
+.opption-1 {
+    margin-left: 29%;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    margin-top: -12%;
+
+}
+
+.place-1 {
+    margin-left: 29%;
+    color: brown;
+    font-size: large;
+
+}
+.diplome-1{
+    background-color:  rgb(255, 187, 0);
+    width: 50%;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top:40.4%;
+}
+.resodre{
+    width: 65%;
+    margin-left: 15%;
+}
+.pithon{
+    width: 65%;
+    margin-left: 15%;
+}
+.react{
+    width: 65%;
+    margin-left: 15%;
+
+}

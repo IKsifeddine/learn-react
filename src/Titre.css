@@ -1,0 +1,29 @@
+.hed{
+    background-color: rgba(0, 0, 0, 0.767);
+    width:100%;;
+    height: 310px;
+}
+.Photo{
+    width: 150px;
+    height: 150px;
+    margin-top: -59px;
+    margin-left :88%;
+
+}
+.titre{
+    text-align: center;
+    color: rgb(255, 187, 0);
+    text-shadow: 3px;
+    size: 12;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.cordoné{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 1%;
+    margin-top: -9%;
+    font-size: larger;
+    text-shadow: 5px;
+}
